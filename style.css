@@ -66,6 +66,10 @@
     color: #000;
     background-color: white;
   }
+.fa-house
+{
+	visibilty: seen;
+}
   
   
   .hero {
@@ -390,4 +394,5 @@
     .hero-text h1 { font-size: 2.5rem; }
     .nav a { margin-left: 1rem; }
   }
+
   
