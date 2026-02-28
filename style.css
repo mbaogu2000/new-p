@@ -51,14 +51,7 @@
     color: #000;
     
   }
-.header .nav a .fa-house{
-    margin-left: 2rem;
-    /*color: var(--muted);*/
-    font-weight: 500;
-    color: #000;
-	background: white;
-    
-  }
+
   
  /* .nav a:hover { color: var(--primary); }*/
  .nav a:hover
@@ -401,6 +394,7 @@
   }
 
   
+
 
 
 
