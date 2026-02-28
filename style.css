@@ -51,6 +51,13 @@
     color: #000;
     
   }
+a .fa-house{
+    margin-left: 2rem;
+    /*color: var(--muted);*/
+    font-weight: 500;
+    color: #000;
+    
+  }
   
  /* .nav a:hover { color: var(--primary); }*/
  .nav a:hover
@@ -66,10 +73,7 @@
     color: #000;
     background-color: black;
   }
-.fa-house
-{
-	visibilty: seen;
-}
+
   
   
   .hero {
@@ -396,4 +400,5 @@
   }
 
   
+
 
