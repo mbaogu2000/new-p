@@ -51,7 +51,7 @@
     color: #000;
     
   }
-.nav a .fa-duotone fa-solid fa-house{
+.nav a .fa-house{
     margin-left: 2rem;
     /*color: var(--muted);*/
     font-weight: 500;
@@ -400,6 +400,7 @@
   }
 
   
+
 
 
 
