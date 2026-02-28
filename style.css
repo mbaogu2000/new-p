@@ -51,11 +51,12 @@
     color: #000;
     
   }
-.nav a .fa-house{
+.header .nav a .fa-house{
     margin-left: 2rem;
     /*color: var(--muted);*/
     font-weight: 500;
     color: #000;
+	background: white;
     
   }
   
@@ -400,6 +401,7 @@
   }
 
   
+
 
 
 
